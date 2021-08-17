@@ -1,4 +1,4 @@
-name: linter
+name: suren
 
 on:
   # Execute on every push to any branch
